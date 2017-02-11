@@ -1,7 +1,7 @@
 baseurl = "https://dnrichardson.github.io/musings/"
 relativeurls = true
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "Dale Richardson"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
